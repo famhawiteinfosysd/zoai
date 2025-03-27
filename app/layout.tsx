@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    siteName: APP_NAME,
+    siteName: Mizo Ai Chat,
     title: {
       default: APP_DEFAULT_TITLE,
       template: APP_TITLE_TEMPLATE,
