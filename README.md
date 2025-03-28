@@ -24,10 +24,10 @@ Deploy your private Gemini application for free with one click, supporting Gemin
 [![Windows][Windows-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App][web-url] / [Desktop App][download-url] / [Issues](https://github.com/u14app/gemini-next-chat/issues)
+[Web App][web-url] / [Desktop App][download-url] / [Issues](https://github.com/famhawiteinfosysd/zoai/issues)
 
-[web-url]: https://gemini.u14.app/
-[download-url]: https://github.com/u14app/gemini-next-chat/releases
+[web-url]: https://zoai.vercel.app/
+[download-url]: https://github.com/famhawiteinfosysd/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
